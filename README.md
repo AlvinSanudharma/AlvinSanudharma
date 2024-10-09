@@ -1,5 +1,5 @@
 <h1 align="center">Hi World👋, I'm I Putu Alvin Sanudharma</h1>
-<h3 align="center">Lifetime learner and passionate mobile/frontend developer from Bali Indonesia</h3>
+<h3 align="center">Lifetime learner and passionate mobile developer from Bali Indonesia</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
