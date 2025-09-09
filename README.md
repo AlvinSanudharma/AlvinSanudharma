@@ -4,8 +4,6 @@
 
 <h3 align="center">Lifetime learner and passionate software developer from Bali, Indonesia</h3>
 
-- 👨‍💻 All of my projects are available at [https://alvin-sanudharma.netlify.app/](https://alvin-sanudharma.netlify.app/)
-
 - 📫 How to reach me **alvinsndhrma@gmail.com**
 
 - ⚡ Fun fact: **Really love with a cup of coffee**
